@@ -26,6 +26,11 @@ int main()
     v=ctg*x/y;
     }
 
+    else{
+    	v=-100;
+    }
+
+
     return 0;
 }
 
