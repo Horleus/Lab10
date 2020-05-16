@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double v,x,y,ctg;
+	double v,x,y;
 
 	setlocale(LC_ALL, "Ukrainian");
 
@@ -18,11 +18,11 @@ int main()
 
     if ((x<0) && (y<=0))
     {
-    v=x*y;
+       v=x*y;
     }
-    else if ((0<=x<10) && (0<y<=9));
+    else if (((0<=x) && (x<10)) && ((0<y) && (y<=9))) // Умови краще розбивати на окремі
     {
-    v=ctg*x/y;
+        v=1 / tan(x/y); // котангенс це: 1/tan(...)
     }
     else
     {

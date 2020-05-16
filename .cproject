@@ -41,9 +41,6 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1539526809.1314778873" name="Lab10.cpp" rcbsApplicability="disable" resourcePath="src/Lab10.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base.381356178.980889624">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base.381356178.980889624" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.mingw.base.381356178"/>
-					</fileInfo>
 					<sourceEntries>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
