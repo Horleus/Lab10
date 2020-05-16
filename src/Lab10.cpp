@@ -16,17 +16,16 @@ int main()
     cin >> y;
     cout << endl;
 
-    if((x<0) && (y<=0))
+    if ((x<0) && (y<=0))
     {
     v=x*y;
     }
-
-    if ((0<=x<10) && (0<y<=9));
+    else if ((0<=x<10) && (0<y<=9));
     {
     v=ctg*x/y;
     }
-
-    else{
+    else
+    {
     	v=-100;
     }
 
