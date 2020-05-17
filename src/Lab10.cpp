@@ -29,7 +29,6 @@ int main()
     	v=-100;
     }
 
-
     return 0;
 }
 
