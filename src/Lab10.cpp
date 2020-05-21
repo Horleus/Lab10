@@ -29,7 +29,7 @@ int main()
     	v=-100;
     }
 
-
+    cout << "Âiäïîâiäü v=" << v << endl;
 
     return 0;
 }
